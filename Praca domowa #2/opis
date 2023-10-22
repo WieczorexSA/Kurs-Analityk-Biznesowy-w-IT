@@ -1,1 +1,21 @@
+Treść zadania:
 
+2. Proszę ściągnąc sobie dokument Business Case i na podstawie
+ostatniej sekcji o pracownikach banku, zrobić nowy diagram Use Case:
+Use Case Pracownicy. Wskazówki:
+- można użyć relacji generalizacji aktora
+- na pewno będzie trzeba użycia relacji między przypadkami "include"
+- normalnie aktor jest podłączony tylko do przypadku bazowego (wtedy
+domyślnie ma dostęp to wszystkich podłączonych do niego), jednak może
+zdarzyć się sytuacja (patrz slajd z Use Case) kiedy dany aktor ma
+dostęp tylko do przypadku połączonego z bazowym
+
+3. Na podstawie obu diagramów stwoorzyć struktórę stron w Confluence:
+- przypadki użycia basowe będą stanowiły nadrzędny poziom
+- przypadki użycia połączone z bazowymi tworzymy jako podstrony
+przypadków bazowych
+
+4. Na podstawie diagrmów (lub łatwiej Confluence'a) tworzymy Epici
+w naszym projekcie w Jira:
+- ponieważ nie mamy możliwości tworzenia "epic'ów" dla epic'ów, to dla
+każdej strony (z obu poziomów) tworzymy jeden epic.
