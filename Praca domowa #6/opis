@@ -1,1 +1,25 @@
+Treść zadania:
 
+Zespół zbudował funkcjonalność do wyświetlania potrzeb inwestycyjnych
+i pop-up do dodawania nowej potrzeby wg. informacji z załącznika (na
+wszelki wypadek dołączony również tutaj). Potrzeby Inwestycyjne są
+trzymane wewnątrz naszej aplikacji.
+Podczas UAT'ów pojawiły się dodatkowe osoby z innych działów banku
+(nazwijmy ich że są z centrali) i mają następujący feedback:
+ - dlaczego potrzeby inwestycyjne są trzymane w tej aplikacji, jeśli
+są to dane charakteryzujące klienta i powinny być utrzymywane w
+systemie CRM, aby cały bank mógł wykorzystywać te informacje,
+- w systemie CRM jest parametr, który ma podobne znaczenie, tam
+powinna być trzymana informacja o potrzebach inwestycyjnych, jednak ma
+inną strukturę i nie da się tam zdefiniować potrzeby inwestycyjnej tak
+jak jest obecnie zaprojektowana.
+Wychodzi na to, że interesariusze od naszego projektu nie wiedzieli o
+potrzebie trzymania tych danych w CRM'ie, prawdopodobnie  dlatego, że
+ten zespół jest złożony z nowych osób zrekrutowanych to tego projektu
+(natomiast oni mają wiedzę jak takie doradztwo inwestycyjne powinno
+wyglądać i ich definicja potrzeby inwestycyjnej jest poprawna).
+Sytuacja jest napięta, ponieważ osoby z centrali chcą pokazać, że ten
+projekt jest źle prowadzony.
+
+Co jako analityk możesz zrobić aby zapobiec eskalacji konfliktu i
+jakie rozwiązanie proponujesz aby zaadresować potrzeby obu stron.
