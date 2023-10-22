@@ -1,1 +1,15 @@
+Treść zadania:
 
+Na warsztatach zaczęliśmy tworzyć diagram encji (ERD) w oparciu o
+notację używaną w diagramie domeny (UML). 
+
+Można również skorzystać z załączonego obrazka.
+
+Zadanie polega na tym, aby dorysować brakujące relacje między
+obiektami (tak, aby żaden nie został sam). Dodatkowo dopisać atrybuty
+do obiektów, które wydają się wam istotne. Minimalnie, te, za pomocą
+których możemy łączyć obiekty, np.:
+- Klient ma atrybut jednoznacznie go określający: TechnicalID
+- każdy obiekt w relacji z klientem powinien również mieć atrybut:
+TechnicalID aby było wiadomo, że dana potrzeba/portfel przypisane są
+dla tego klienta.
