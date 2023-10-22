@@ -1,1 +1,20 @@
+Treść zadania:
 
+Na warsztatach o makietach, zrobiliśmy szkic dla ekranu dodawania
+nowej potrzeby inwestycyjnej. 
+
+Załączam również export do .pdf jak również załącznik do business
+case'a (był już wrzucany do classroom, ale dla waszej wygody tu
+również jest).
+
+Do zrobienia:
+1. Dokumentacja techniczna do tego ekranu w Confluence, proszę
+zdefiniować również wymagania niefunkcjonalne jeśli jakieś widzicie.
+Najlepiej ponumerujcie wszystkie istotne elementy ekranu i w tabelce
+opiszecie każdy. Dodatkowo powinny znaleźć się informacje jak na ten
+ekran można się dostać
+2. Stworzyć story w Jira do implementacji tego ekranu, gdzie jako
+dokumentację wklejcie linka z confluenca a w Jira trzeba zdefiniować
+precyzyjnie kryteria akceptacji. Tworzymy jedno story (nie dzielimy na
+front-end i back-end), bez subtasków, bo to już decyzja programistów
+jak będą chcieli to podzielić.
