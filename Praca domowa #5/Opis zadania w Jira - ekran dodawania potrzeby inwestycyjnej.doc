@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#SWIEC-57] Ekran - dodawanie potrzeby inwestycyjnej</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://laba-pl-business-in-it.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [SWIEC-57]&nbsp;<a href="https://laba-pl-business-in-it.atlassian.net/browse/SWIEC-57">Ekran - dodawanie potrzeby inwestycyjnej</a>
+            <span class="subText">
+               Utworzono: 07/paź/23                   &nbsp;Zaktualizowano: 07/paź/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Do zrobienia</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projekt:</b></td>
+        <td width="80%"><a href="https://laba-pl-business-in-it.atlassian.net/secure/BrowseProject.jspa?id=10038">swieczorek817</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Komponenty:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Ma wpływ na wersje:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Wersje do poprawienia:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Typ:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priorytet:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Osoba zgłaszająca:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="70121:d1a6458a-1e94-4d30-9797-57d97d920a76"
+                id="word_reporter_70121:d1a6458a-1e94-4d30-9797-57d97d920a76"
+                href="https://laba-pl-business-in-it.atlassian.net/secure/ViewProfile.jspa?accountId=70121%3Ad1a6458a-1e94-4d30-9797-57d97d920a76">
+                    Szymon Wieczorek
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Osoba przypisana:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Nie przypisano
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Rozwiązanie:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Nierozwiązane
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Głosy:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etykiety:</b>
+        </td>
+        <td id="labels-10464-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Brak
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Nie określono
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Czas poświęcony:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Nie określono
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Pierwotne oszacowanie:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Nie określono
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10464-value" class="value" bgcolor="#ffffff" width="80%">      0|i002pz:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10464-value" class="value" bgcolor="#ffffff" width="80%"></td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Opis</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>Kryteria akceptacji:</p>
+
+<ol>
+	<li>Portfel inwestycyjny</li>
+</ol>
+
+
+<p>Zadanie będzie uznane za ukończone, gdy:</p>
+
+<ol>
+	<li>Klient będzie mógł wybrać jeden z wielu swoich portfeli za pomocą rozwijanego menu.</li>
+	<li>Przycisk będzie oznaczony jako informacja wymagana.</li>
+</ol>
+
+
+<p>Obrazek pomiędzy obszarami "portfel inwestycyjny" i "kategoria potrzeby"</p>
+
+<ol>
+	<li>Zadanie będzie określone jako zrealizowane, jeżeli w zaznaczonym “kopertą” obszarze pojawi się obrazek, który będzie zgodny z kontekstem definiowania potrzeby inwestycyjnej. Jest to realizacja w wersji MVP.</li>
+</ol>
+
+
+<p>2. W wersji docelowej w miejscu koperty zdefiniowane będzie wiele obrazków, które zmieniają się wraz z kategorią potrzeby.</p>
+
+<p>2. Kategoria potrzeby:</p>
+
+<p>Zadanie będzie uznane za wykonane, jeżeli następujące kryteria będą spełnione:</p>
+
+<ol>
+	<li>Kategorie potrzeby będą wybierane w ramach menu rozwijanego.</li>
+	<li>Klient będzie miał dostępne następujące kryteria:
+	<ol>
+		<li>“Samochód”</li>
+		<li>“Remont”</li>
+		<li>“Wkład własny do kredytu mieszkaniowego”</li>
+		<li>“Dziecko”</li>
+		<li>“Wakacje”</li>
+	</ol>
+	</li>
+	<li>Wyżej opisane kryteria w wersji MVP będą mogły mieć puste opisy i sumy docelowe, ale w wersji finalnej aplikacja będzie zawierała opis potrzeby oraz sugestię zarówno daty docelowej, jak i sumy docelowej.</li>
+	<li>Klient będzie mógł również miał opcję wybrać opcję “Inna kategoria”, pozwalającą na zdefiniowanie własnej kategorii potrzeby.</li>
+	<li>Wybór kategorii potrzeby będzie zaznaczony jako informacja wymagana.</li>
+</ol>
+
+
+<p>Opis potrzeby</p>
+
+<p>Zadanie będzie uznane jako wykonane, jeżeli:</p>
+
+<ol>
+	<li>Element “opis potrzeby” będzie zamrożone do momentu, aż w elemencie “kategoria potrzeby” klient wybierze jedną z dostępnych opcji.</li>
+	<li>Klient będzie mógł edytować opis potrzeby.</li>
+	<li>W wersji docelowej wybór jednej ze zdefiniowanych kategorii będzie generował generyczny opis potrzeby.</li>
+</ol>
+
+
+<p>3. Data docelowa</p>
+
+<p>Zadanie będzie uznane za wykonane, kiedy:</p>
+
+<ol>
+	<li>Wybór daty docelowej będzie zintegrowany z kalendarzem, który będzie mógł być łatwo przewijany według miesięcy i lat.</li>
+	<li>Klient będzie mógł wpisać datę docelową ręcznie.</li>
+	<li>Definicja daty zostanie ograniczona do formatu DD.MM.YYYY.</li>
+	<li>Element będzie zwracał informację o błędzie, kiedy wprowadzona data będzie niezgodna z formatem DD.MM.YYYY.</li>
+	<li>Element będzie zamrożony do momentu, aż klient zdefiniuje kategorię potrzeby.</li>
+	<li>Element będzie oznaczony jako informacja wymagana.</li>
+</ol>
+
+
+<p>4. Suma docelowa</p>
+
+<p>Zadanie zostanie uznane za wykonane, jeżeli:</p>
+
+<ol>
+	<li>Element “Suma docelowa” będzie zamrożony do momentu, aż klient określi kategorię potrzeby.</li>
+	<li>Klient będzie mógł wpisać ręcznie sumę docelową.</li>
+	<li>Element będzie zaznaczony jako informacja wymagana.</li>
+	<li>Element będzie pozwalał tylko i wyłącznie na wprowadzanie liczb, maksymalnie 6-cyfrowych.</li>
+	<li>W wersji docelowej - suma docelowa ma być proponowana na podstawie wyboru jednej ze zdefiniowanych kategorii potrzeby.</li>
+	<li>W wersji docelowej - element na podstawie daty docelowej i wpisanej sumy docelowej ma sugerować, ile powinien wynieść pierwsza wpłata do portfela.</li>
+</ol>
+
+
+<p>5. Dopuszczalne ryzyko</p>
+
+<p>Zadanie będzie uznane za wykonane, jeżeli:</p>
+
+<ol>
+	<li>Element będzie niemożliwy do edycji z perspektywy klienta.</li>
+	<li>Element będzie pusty do momentu, aż data docelowa i suma docelowa potrzeby zostaną zdefiniowane.</li>
+	<li>Element będzie przeliczał się na podstawie informacji daty docelowej i sumy docelowej i będzie pokazywał wygenerowaną wartość.</li>
+	<li>Element będzie oznaczony jako informacja wymagana.</li>
+	<li>Dopuszczalne ryzyko będzie przeliczane w taki sposób, że dla dłuższych przedziałów czasowych od teraz do daty docelowej oraz dla większych sum docelowych wspomniane przeliczenie będzie zwracało wyższe dopuszczalne ryzyko.</li>
+</ol>
+
+
+<p>6. Przycisk “Dodaj”</p>
+
+<p>Zadanie będzie uznane za wykonane, jeżeli:</p>
+
+<ol>
+	<li>Przycisk “Dodaj” będzie zamrożony do momentu, aż wszystkie wymagane informacje zostaną zdefiniowane przez klienta.</li>
+	<li>Przycisk “Dodaj” będzie generował okienko pop-up z pytaniem, czy na pewno klient chce zdefiniować potrzebę inwestycyjną w zaproponowanej formie, z opcjami “Tak” lub “Nie”.</li>
+	<li>Opcja “Tak” z okienka powinna generować baner pop-up z informacją, że klientowi udało się zdefiniować potrzebę inwestycyjną.</li>
+	<li>Opcja “Tak” z okienka powinna prowadzić do strony banku z portfelami inwestycyjnymi, która zawiera informację także o zdefiniowanych dla nich potrzebach inwestycyjnych.</li>
+</ol>
+
+
+<p>7. Przycisk “Anuluj”</p>
+
+<p>Zadanie będzie uznane za ukończone, jeżeli użycie przycisku “Anuluj” będzie:</p>
+
+<ol>
+	<li>Uruchamiało okienko pop-up z pytaniem potwierdzającym, czy użytkownik chce wyjść z ekranu definiowania potrzeby inwestycyjnej, z klikalnymi przyciskami “Tak” i “Nie”.
+	<ol>
+		<li>Przycisk “Tak” ma odsyłać klienta do strony głównej aplikacji internetowej banku widocznej po zalogowaniu.</li>
+		<li>Przycisk “Nie” ma pozostawić klienta na bieżącej stronie i nie powodować żadnych zmian w tym, co klient do tej pory zdefiniował na ekranie.</li>
+	</ol>
+	</li>
+</ol>
+
+
+<p>Wymagania niefunkcjonalne ekranu</p>
+
+<p>Następujące wymagania niefunkcjonalne muszą zostać spełnione w wersji MVP:</p>
+
+<ol>
+	<li>Wybór potrzeby inwestycyjnej na ekranie nie zajmuje więcej niż 10 minut.</li>
+	<li>W górnej części ekranu należy dodać element informacyjny, pozwalający klientowi dowiedzieć się, co powinien wiedzieć żeby prawidłowo przygotować się do zdefiniowania potrzeby inwestycyjnej.</li>
+	<li>Ekran wyświetla się prawidłowo w przeglądarkach Google Chrome, Firefox, Opera, Safari we wszystkich wersjach z ostatniego roku.</li>
+	<li>Ekran wyświetla się prawidłowo w telefonach z systemem Android i iOS we wszystkich wersjach z ostatniego roku.</li>
+	<li>Ekran mieści się na jednej stronie przeglądarki w laptopach przy rozdzielczościach 1280x960, 1440x1080,1600x900 i większych.</li>
+	<li>Elementy “Portfel inwestycyjny”, “Kategoria potrzeby”, “Data docelowa”, “Suma docelowa” i “Dopuszczalne ryzyko” posiadają ikonkę informacji obok nich, po najechaniu na którą pojawiają się informację na temat tych elementów.</li>
+	<li>Obrazek musi się wyświetlać prawidłowo, ale żeby nie obciążać strony nie może ważyć więcej niż 5 MB.</li>
+	<li>Zdefiniowanie własnoręcznie kategorii potrzeby nie może pozwalać na używanie słów używanych powszechnie za nieprzyzwoite.</li>
+</ol>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Wygenerowane (Fri Nov 10 15:51:18 UTC 2023) przez Szymon Wieczorek z użyciem systemu Jira 1001.0.0-SNAPSHOT#100241-sha1:5602c6a504736dde20af04f6efe70d3c32b6a77b.
+
+</body>
+</html>
